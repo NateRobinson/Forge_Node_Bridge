@@ -2,9 +2,6 @@ Forge Node Bridge
 
 
 ```
-change directory:
-	$ cd Forge_Node_Bridge
-
 install dependencies:
 	$ npm install
 
